@@ -1,0 +1,106 @@
+.landingPageContainer{
+  width: 100vw; 
+  height: 100vh;
+  background-image: url("background.png");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  color: white;
+}
+
+.landingPageContainer nav{
+ padding-inline: 1.2rem;
+ padding-block: 1.6rem;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.navList{
+  display: flex;
+  text-align: center;
+  gap: 1.5rem;
+  cursor: pointer;
+}
+.landingPageContainer nav h2{
+  font-size: 1.82rem;
+  font-weight: 500;
+}
+
+.navList p:hover{
+  opacity: 0.5;
+}
+.landingMainContainer{
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 3rem;
+  height: 70vh;
+  align-items: center;
+}
+
+
+.landingMainContainer > div:nth-child(1){
+  font-size: 1.62rem;
+}
+
+.landingMainContainer > div:nth-child(1) div[role="button"] {
+ background: #D97500;
+ width: fit-content; 
+ padding: 1rem;
+ cursor: pointer;
+ border-radius: 0.71rem;
+ margin-top: 1rem;
+}
+
+.landingMainContainer > div:nth-child(1) div[role="button"] a{
+  text-decoration: none;
+  color: white;
+  font-size: 1.7rem;
+}
+
+.landingMainContainer > div:nth-child(1) div[role="button"]:hover {
+   background: #fa9e0a;
+ }
+
+.landingMainContainer > div:nth-child(2) img {
+  height: 70vh;
+  width: auto;
+} 
+
+.navList p{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.navBar{
+  display: flex ; 
+  align-items: center; 
+  justify-content: space-between; 
+  padding-inline: 20px;
+  text-align: center;
+}
+
+.left-panel{
+  height: 100%;
+  display: flex;  
+  align-items: center;
+}
+
+.rightPanel{
+  display: flex;
+  align-items: center;
+}
+
+.rightPanel > img{
+  width: 30vw; 
+  height: auto ;
+  border-radius: 5px;
+}
+
+.meetContainer{
+  display: flex; 
+  padding-inline: 20px; 
+  height: 80vh;
+  gap: 10vw; 
+  justify-content: center;
+  
+}
+
