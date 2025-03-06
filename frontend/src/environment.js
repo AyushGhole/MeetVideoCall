@@ -1,6 +1,4 @@
 let IS_PROD = true;
-const server = IS_PROD
-  ? "https://meetvideocallbackend.onrender.com/"
-  : "http://localhost:5000";
+const server ="https://meetvideocallbackend.onrender.com/";
 
 export default server;
