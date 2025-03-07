@@ -4,7 +4,9 @@
   height: 100vh;
   background-image: url("background.png");
   background-repeat: no-repeat; 
-  background-size: cover;}
+  background-size: cover;
+  background-color:black;
+}
 
 .meetUserVideo {
   position: absolute;
