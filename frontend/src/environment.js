@@ -1,4 +1,4 @@
 let IS_PROD = true;
-const server ="https://meetvideocallbackend.onrender.com/";
+const server ="https://meet-video.vercel.app";
 
 export default server;
