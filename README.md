@@ -3,6 +3,8 @@
 
 MeetCall.in is a modern video call web application designed for seamless real-time communication. It enables users to engage in high-quality one-on-one and group video calls with low latency and secure connections using WebRTC technology.
 <br>
+<br>
+<br>
 <img src="frontend/public/main.png"  alt="mainPage" >
 
 <h3>1. Planning & Technology Stack Selection </h3>
