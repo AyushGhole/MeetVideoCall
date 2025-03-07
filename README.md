@@ -46,7 +46,7 @@ MeetCall.in is a modern video call web application designed for seamless real-ti
 ✅ Testing & Bug Fixes – Perform unit and integration testing to ensure a smooth experience.<br>
 
 <h3>Technologies Used : </h3>
-src="https://camo.githubusercontent.com/e3aef779877ecfad97fc1e213d3c449a685e6766c0c7fdca210802d4a1f59302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031"></span>
+<span> <img src="https://camo.githubusercontent.com/e3aef779877ecfad97fc1e213d3c449a685e6766c0c7fdca210802d4a1f59302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031"></span>
 <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30px" width="100px"></span>
 <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="30px" width="120px" ></span>
