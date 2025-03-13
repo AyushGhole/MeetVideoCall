@@ -80,5 +80,5 @@ MeetCall.in is a modern video call web application designed for seamless real-ti
 <br>
 <h3>Demo : </h3> 
  <a href="https://youtu.be/GVZnS_creeQ">
-         <img src="https://img.shields.io/badge/-Demo-red?style=flat-square" height="30px" width="90px" >
+         <img src="https://img.shields.io/badge/-Demo-red?style=flat-square" height="30px" width="60px" >
    </a>
